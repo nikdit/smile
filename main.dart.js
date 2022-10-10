@@ -63704,6 +63704,8 @@ a6.dx.push(new A.j(0,0))
 a6.dy.push(new A.j(0,0))
 a6.fr.push(new A.j(0,0))
 a6.fx.push(new A.j(0,0))
+a6.fy.push(new A.j(0,0))
+a6.go.push(new A.j(0,0))
 s=a6.ok
 B.b.sk(s,0)
 r=a6.k4
