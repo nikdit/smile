@@ -66356,7 +66356,7 @@ WW(){this.O(new A.a8y(this))},
 G(a,b){var s=null,r=A.fi(A.fb())
 return A.f3(A.eO(s,B.au,s,s,s,A.F(A.amL(),s,s,s,s,s,s),s),B.p,new A.dh(new A.a8E(this),s),r)},
 RW(){var s,r,q=this,p=null
-if(q.c.T(t.w).f.a.a<800)return q.Bw()
+if(q.c.T(t.w).f.a.a<1000)return q.Bw()
 else{s=t.p
 if($.ej){r=$.iH.a1()
 return A.aU(B.x,A.a([A.bg(A.a([A.z(A.bl(B.C,A.z(q.av(),520,800),B.E),90*r/100,p),B.e5,A.bx(A.bq(new A.pS(p),B.y))],s),B.q,B.r,B.o)],s),B.v,p,p)}else return A.aU(B.x,A.a([A.bg(A.a([A.z(A.bl(B.C,A.z(q.av(),520,800),B.E),520,800),A.z(p,p,5),A.bx(A.bq(new A.pS(p),B.y))],s),B.q,B.r,B.o)],s),B.v,p,p)}},
