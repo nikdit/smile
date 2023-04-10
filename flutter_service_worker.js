@@ -78,12 +78,13 @@ const RESOURCES = {
 ".git/objects/fe/6d67148e660c432ecf22a63c0a2ed3a8811ddc": "b503c741e645f41ca6761f28348e42ed",
 ".git/refs/heads/main": "c5814a78e7027949a8b48717029b985e",
 ".git/refs/remotes/origin/main": "c5814a78e7027949a8b48717029b985e",
-"assets/AssetManifest.json": "589d8fd09bdebbba2801cf48069efb7f",
+"assets/AssetManifest.json": "807a5848f156460c389c36d79dbf1c43",
 "assets/assets/1/Elek.png": "a48ab71f82344036c7cbf5571af1d07b",
 "assets/assets/10/Gegenkopplung.gif": "d20ebe482446e5c1ea50005c9c84c2a3",
+"assets/assets/10/Komp1.png": "64b74a0fbc6302902a75530a1c3f67ed",
+"assets/assets/10/Komp2.png": "e3d957adbda6126000f91389839df381",
 "assets/assets/3/BJT/bjt.gif": "ba3c53184ee09a40a3d331a691596e0f",
 "assets/assets/3/BJT/bjt.png": "747ab91bc3fdc47db1fe1cff461805e8",
-"assets/assets/3/BJT/blitz.png": "38b96e06486725b76eeb5b3f2e196180",
 "assets/assets/3/BJT/Elek.png": "5d1993487bb7472f8b58577099b73a30",
 "assets/assets/3/BJT/Elek9.gif": "0475b1ec5ebc978784ad3b284cb8b537",
 "assets/assets/3/BJT/Elek_hell.png": "cd6f1ba0e28d8f461b80dd358f5b8018",
@@ -91,8 +92,6 @@ const RESOURCES = {
 "assets/assets/3/BJT/Loch9.gif": "bda15e3dc5cfa560f86a7cb75ffb8e58",
 "assets/assets/3/BJT/Loch_Bedeckung.png": "1afec3ae0129028d1947f910e057ed2a",
 "assets/assets/3/BJT/Loch_Bedeckung_neu.png": "1dfb487c1cb941537954cce9ee169d90",
-"assets/assets/3/BJT/Loch_hell.png": "9f6776f5f416519ae433e9ca7c1b91c7",
-"assets/assets/5/Pfeil.gif": "a385c34c4b43a63ab0341094e9b33fff",
 "assets/assets/6/transistor.gif": "05a855c3046d0a72a08d86d9b59f2d1a",
 "assets/assets/6/transistor.png": "5e96a0a2fcd62b625bd60aa3c83262db",
 "assets/assets/6/transistor2.png": "2d6f524fb0ca40f4277cfda87eb7a425",
@@ -103,9 +102,9 @@ const RESOURCES = {
 "assets/assets/home/hsu-image.jpg": "763d4ae69f6475971030b54571b76969",
 "assets/assets/xdreieck.png": "4b39120afb7db16e34cf0d7ed755e00f",
 "assets/assets/ydreieck.png": "286bec6820fc9881e392b728ff68527c",
-"assets/FontManifest.json": "e5927f3f434848c92e8dd43d177afeb7",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "f7cb996f6f1e9ae11e8967468360fa41",
+"assets/FontManifest.json": "38f05824d5f936fa888ac3a7743183ab",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/NOTICES": "2429a64d3bcdce77f8a41b9fca0f5e1c",
 "assets/packages/catex/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/catex/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
 "assets/packages/catex/fonts/KaTeX_Caligraphic-Regular.ttf": "7ec92adfa4fe03eb8e9bfb60813df1fa",
@@ -126,19 +125,20 @@ const RESOURCES = {
 "assets/packages/catex/fonts/KaTeX_Size3-Regular.ttf": "e87212c26bb86c21eb028aba2ac53ec3",
 "assets/packages/catex/fonts/KaTeX_Size4-Regular.ttf": "85554307b465da7eb785fd3ce52ad282",
 "assets/packages/catex/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "091ffbb73818ba7c5a88e59c345e4546",
-"/": "091ffbb73818ba7c5a88e59c345e4546",
-"main.dart.js": "0b3ed8b97808dd1ce01a7d34cfe16fb1",
+"index.html": "4a2e0c356b885a6f06086b4c6887bc64",
+"/": "4a2e0c356b885a6f06086b4c6887bc64",
+"main.dart.js": "265dfa004927ff18ea95678b0c4dff1b",
 "manifest.json": "cdfe77bdfa9eb00121bdb1970ebb32c2",
 "README.md": "b69e50eb3d02aa532df0c9eeb5c10095",
 "version.json": "bf43eb28f1cea5cb072fb1d0c23c0f4b"
@@ -149,7 +149,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -248,9 +247,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
