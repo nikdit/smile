@@ -74087,7 +74087,7 @@ if(A.as(o,p,t.w).w.a.a<950&&!$.at)return q.Fc()
 else{o=t.p
 s=q.f
 if($.at){r=$.aB.K()
-return A.G(B.l,A.a([A.a1(A.a([A.d(A.U(B.w,A.d(q.G(),520,650),B.o),p,80*r/100),B.a8,A.S(A.T(s,B.n),1)],o),B.f,B.h,B.e,p)],o),B.j,B.k,p)}else return A.G(B.l,A.a([A.a1(A.a([A.d(A.U(B.w,A.d(q.G(),520,650),B.o),520,650),A.d(p,p,5),A.S(A.T(s,B.n),1)],o),B.f,B.h,B.e,p)],o),B.j,B.k,p)}},
+return A.G(B.l,A.a([A.a1(A.a([A.d(A.U(B.w,A.d(q.G(),520,650),B.o),p,40*r/100),B.a8,A.S(A.T(s,B.n),1)],o),B.f,B.h,B.e,p)],o),B.j,B.k,p)}else return A.G(B.l,A.a([A.a1(A.a([A.d(A.U(B.w,A.d(q.G(),520,650),B.o),520,650),A.d(p,p,5),A.S(A.T(s,B.n),1)],o),B.f,B.h,B.e,p)],o),B.j,B.k,p)}},
 Fc(){var s,r,q,p=this,o=null,n=p.c
 n.toString
 s=t.p
