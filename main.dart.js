@@ -22878,7 +22878,7 @@ _.k3=i
 _.k4=j
 _.ok=k
 _.p1=l
-_.p2=-1
+_.p2=5
 _.R8=_.p4=0
 _.ry=m
 _.to=n
@@ -77477,8 +77477,8 @@ switch(r.R8){case 1:r.xr=1
 r.q(new A.anN(r))
 s=r.ax
 if(s<5)r.ax=s+1
-else if(s===5){r.R8=2
-r.p2=5}break
+else if(s===5)r.R8=2
+break
 case 2:r.ax=0
 r.q(new A.anO(r))
 if(++r.CW===4){++r.cx
