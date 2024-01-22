@@ -26136,7 +26136,7 @@ aGx(){return A.a([new A.bv(A.aEg(),"/2/2_4/pn_UebergangBaender",B.c,new A.aeJ())
 aGy(){return A.a([new A.bv(A.aEh(),"/2/2_5/MeHL1",B.c,new A.aeL()),new A.bv(A.aEi(),"/2/2_5/MeHL2",B.c,new A.aeM())],t.a)},
 aGz(){return A.a([new A.bv(A.aEk(),"/3/3_1/BJT",B.c,new A.aeO()),new A.bv(A.aEj(),"/3/3_1/Ladungstraegerverteilung",B.c,new A.aeP())],t.a)},
 aGA(){return A.a([new A.bv(A.aEl(),"3/3_2/BJT_Kennlinienfeld",B.c,new A.aeR())],t.a)},
-aGB(){return A.a([new A.bv(A.aEm(),"/3/3_4/Bipolartransistor_Baender",B.c,new A.aeT())],t.a)},
+aGB(){return A.a([new A.bv(A.aEm(),"3/3_4/Bipolartransistor_Baender",B.c,new A.aeT())],t.a)},
 aGC(){return A.a([new A.bv(A.aEn(),"/11/NMOS_Prozess",B.c,new A.aeV())],t.a)},
 aGD(){return A.a([new A.bv(A.aEo(),"/4/4_2/FET_Kennlinienfeld",B.c,new A.aeX())],t.a)},
 aGE(){return A.a([new A.bv(A.aQM(),"/4/4_4/MOS_Struktur",B.c,new A.aeZ()),new A.bv(A.aEp(),"/4/4_4/Baender_3D",B.c,new A.af_()),new A.bv(A.aEr(),"/4/4_4/Baenderdiagramm_MOS",B.c,new A.af0()),new A.bv(A.aEq(),"/4/4_4/Baenderdiagramm_FET",B.c,new A.af1()),new A.bv(A.aEt(),"/4/4_4/Substratsteuereffekt",B.c,new A.af2()),new A.bv(A.aEs(),"/4/4_4/Kurzkanaleffekt",B.c,new A.af3())],t.a)},
