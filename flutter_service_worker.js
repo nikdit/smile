@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4360a625287fc63ce80e9e986f1e3807",
-"assets/AssetManifest.bin.json": "76d3767ab9e57639a41e1c5fde9062b7",
-"assets/AssetManifest.json": "9e7db3ac7327adf6744f35dcf6bb9951",
+const RESOURCES = {"assets/AssetManifest.bin": "cdd407d557570465c57023f3efbab5b5",
+"assets/AssetManifest.bin.json": "0bcf6d5436101f97a8f85abb847b4c73",
+"assets/AssetManifest.json": "37727714bac27b7c49e148f19d2bc8f1",
 "assets/assets/1/1_2/Halbkugel0.png": "2ca846cf6e619b5c0cac91130d6db516",
 "assets/assets/1/1_2/Halbkugel1.png": "c1bd4356e9c3bd1e8c4a898220970afe",
 "assets/assets/1/1_2/Halbkugel2.jpg": "d6934c612f08a2b489b1cbf9e4b8168b",
@@ -19,6 +19,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "4360a625287fc63ce80e9e986f1e3807
 "assets/assets/1/Elek.png": "a48ab71f82344036c7cbf5571af1d07b",
 "assets/assets/1/HLBlock.jpg": "5bab687ad0de28d7323e156ddad3016d",
 "assets/assets/1/Kristallgitter.glb": "9ab043a261d082be5d4a7565ebc1157e",
+"assets/assets/1/Kristallgitter.igs": "62c4e3dacebcccb0ca65a69da8073311",
+"assets/assets/1/linienInZylinder.lsp": "a597a276b01c164f4e92c3cef383bab6",
+"assets/assets/1/QuadermitEckkugeln.bak": "2af612f318194076fa5c286531c20e8f",
+"assets/assets/1/QuadermitEckkugeln.dwfx": "2c6b9f9bc0ff0d665e026c4fe3b65505",
+"assets/assets/1/QuadermitEckkugeln.dwg": "12398771a9feee77e253169189e5b1f5",
 "assets/assets/10/Gegenkopplung.gif": "d20ebe482446e5c1ea50005c9c84c2a3",
 "assets/assets/10/Komp1.png": "64b74a0fbc6302902a75530a1c3f67ed",
 "assets/assets/10/Komp2.png": "504d286ac08cea4b5a4e7e6b5d267037",
@@ -424,8 +429,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "4360a625287fc63ce80e9e986f1e3807
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e197f7585b9d83a66ed63dd6013cf4e7",
-"/": "e197f7585b9d83a66ed63dd6013cf4e7",
+"index.html": "cd22723f77935f177cde02eb4bf3be96",
+"/": "cd22723f77935f177cde02eb4bf3be96",
 "main.dart.js": "35029a1ce332480b34a01edf70a36b00",
 "manifest.json": "cdfe77bdfa9eb00121bdb1970ebb32c2",
 "version.json": "bf43eb28f1cea5cb072fb1d0c23c0f4b"};
