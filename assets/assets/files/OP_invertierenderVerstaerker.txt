@@ -1,0 +1,29 @@
+* File created by LCapy GUI
+* DO NOT MANUALLY MODIFY!
+==============================
+ProgrammVersion 1.0
+Version Build Date: 
+Schematics Size: 1200x1200
+Distance between the Knots: 30
+==============================
+<type:EOP;name:E1;middlePoint:330,210;alignment:right;positions:390_210,270_240,270_180;value:Ad;visibleName:true;visibleValue:false;>
+<type:Resistor;name:R1;middlePoint:180,180;alignment:right;positions:150_180,210_180;value:;visibleName:true;visibleValue:false;>
+<type:Resistor;name:R2;middlePoint:330,120;alignment:right;positions:300_120,360_120;value:;visibleName:true;visibleValue:false;>
+<type:Ground;name:G2;middlePoint:270,270;alignment:down;positions:270_270;value:;visibleName:true;visibleValue:false;>
+<type:Ground;name:G3;middlePoint:480,270;alignment:down;positions:480_270;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W2;middlePoint:135,180;alignment:right;positions:120_180,150_180;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W4;middlePoint:270,255;alignment:down;positions:270_240,270_270;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W5;middlePoint:240,150;alignment:up;positions:240_180,240_120;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W6;middlePoint:225,180;alignment:right;positions:210_180,240_180;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W7;middlePoint:255,180;alignment:left;positions:270_180,240_180;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W8;middlePoint:270,120;alignment:right;positions:240_120,300_120;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W9;middlePoint:375,120;alignment:right;positions:360_120,390_120;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W10;middlePoint:390,165;alignment:down;positions:390_120,390_210;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W11;middlePoint:435,210;alignment:right;positions:390_210,480_210;value:;visibleName:true;visibleValue:false;>
+<type:Voltage;name:V1;middlePoint:120,210;alignment:down;positions:120_180,120_240;value:;visibleName:true;visibleValue:false;>
+<type:Ground;name:G4;middlePoint:120,270;alignment:down;positions:120_270;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W12;middlePoint:120,255;alignment:down;positions:120_240,120_270;value:;visibleName:true;visibleValue:false;>
+==============================
+InputKnots:Offset(120.0, 180.0)_Offset(120.0, 270.0)
+OutputKnots:Offset(480.0, 210.0)_Offset(480.0, 270.0)
+==============================

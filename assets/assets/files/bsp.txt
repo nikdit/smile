@@ -1,0 +1,24 @@
+* File created by LCapy GUI
+* DO NOT MANUALLY MODIFY!
+==============================
+ProgrammVersion 1.0
+Version Build Date: 
+Schematics Size: 1200x1200
+Distance between the Knots: 30
+==============================
+<type:Resistor;name:R1;middlePoint:150,90;alignment:right;positions:120_90,180_90;value:;visibleName:true;visibleValue:false;>
+<type:Resistor;name:R2;middlePoint:210,120;alignment:down;positions:210_90,210_150;value:;visibleName:true;visibleValue:false;>
+<type:Capacitor;name:C1;middlePoint:270,120;alignment:down;positions:270_90,270_150;value:;visibleName:true;visibleValue:false;>
+<type:Wire;name:W1;middlePoint:90,90;alignment:right;positions:60_90,120_90;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W3;middlePoint:195,90;alignment:right;positions:180_90,210_90;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W4;middlePoint:240,90;alignment:right;positions:210_90,270_90;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W5;middlePoint:300,90;alignment:right;positions:270_90,330_90;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W8;middlePoint:240,150;alignment:right;positions:210_150,270_150;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W9;middlePoint:300,150;alignment:right;positions:270_150,330_150;value:;visibleName:false;visibleValue:false;>
+<type:Ground;name:G1;middlePoint:150,150;alignment:down;positions:150_150;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W10;middlePoint:105,150;alignment:right;positions:60_150,150_150;value:;visibleName:false;visibleValue:false;>
+<type:Wire;name:W11;middlePoint:180,150;alignment:right;positions:150_150,210_150;value:;visibleName:false;visibleValue:false;>
+==============================
+InputKnots:Offset(60.0, 90.0)_Offset(60.0, 150.0)
+OutputKnots:Offset(330.0, 90.0)_Offset(330.0, 150.0)
+==============================
